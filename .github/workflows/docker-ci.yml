@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourusername/flask-docker-cicd:latest
+          tags: kartikksoni/flask-docker-cicd:latest
