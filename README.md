@@ -22,11 +22,11 @@
 - Push to main to trigger automated build & push
 
 🚀 **Why it’s useful**:
-
 Automates the entire development-to-deployment workflow, ensuring fast, consistent, and error-free releases without manual steps.
+
 ---
 
 🎯 **Result**:
-
 A reliable, containerized Flask app ready to deploy anywhere Docker is supported — improving development speed and deployment consistency.
+
 ---
